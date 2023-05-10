@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Acceso_Aplicacion",
+            "request": "launch",
+            "mainClass": "primerosConceptos.Acceso_Aplicacion",
+            "projectName": "javainit_e8760792"
+        },
+        {
+            "type": "java",
+            "name": "Uso_Vehiculo",
+            "request": "launch",
+            "mainClass": "Poo.Uso_Vehiculo",
+            "projectName": "javainit_e8760792"
+        },
+        {
+            "type": "java",
+            "name": "Uso_Empleado",
+            "request": "launch",
+            "mainClass": "Poo.Uso_Empleado",
+            "projectName": "javainit_e8760792"
+        },
+        {
+            "type": "java",
+            "name": "Constantes_Pruebas",
+            "request": "launch",
+            "mainClass": "Poo.Constantes_Pruebas",
+            "projectName": "javainit_e8760792"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
